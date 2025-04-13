@@ -1,0 +1,31 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1744521440
+hud.gd::GDScript/GDScript::1005647180761046008::1744492469::0::1::::<>CanvasLayer<><>0<>0<><>::
+hud.tscn::PackedScene::4947129736321201862::1744521250::0::1::::<><><>0<>0<><>::uid://ole4kvtbp4r1::::res://hud.gd<>uid://cit6gwe5px1q8::::res://fonts/Xolonium-Regular.ttf
+icon.webp::CompressedTexture2D/CompressedTexture2D::3626017087650301524::1744492469::1744492510::1::::<><><>0<>0<>c6c2d2a409d3db208320ab54c2d08e4f<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+main.gd::GDScript::2999757432023437591::1744520918::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene::6469066510429512572::1744521250::0::1::::<><><>0<>0<><>::uid://bi0dtjbbi0wxj::::res://main.gd<>uid://rkdnhqgf2hpj::::res://mob.tscn<>uid://4vwrqjegqwpj::::res://player.tscn<>uid://ccqoreueuxdb7::::res://hud.tscn<>uid://drnxa8cqsdpw5::::res://art/House In a Forest Loop.ogg<>uid://byhj8egnugl6o::::res://art/gameover.wav
+mob.gd::GDScript/GDScript::7132953241582797509::1744492469::0::1::::<>RigidBody2D<><>0<>0<><>::
+mob.tscn::PackedScene::1214059878346897035::1744521250::0::1::::<><><>0<>0<><>::uid://c8vixyuoi1xgn::::res://mob.gd<>uid://7nyolas0d646::::res://art/e_3-removebg-preview.png<>uid://dxdvufl6a45g1::::res://art/e_2-removebg-preview.png
+player.gd::GDScript/GDScript::4921010131592265353::1744492469::0::1::::<>Area2D<><>0<>0<><>::
+player.tscn::PackedScene::2080195385142696447::1744521250::0::1::::<><><>0<>0<><>::uid://ccd1k2qxslohl::::res://player.gd<>res://art/playerGrey_walk1.png<>uid://cyjpxwa8dyy1y::::res://art/7.png<>uid://btpijlumrsyp4::::res://art/8.png<>uid://doh2oohsy8xvl::::res://art/1.png<>uid://hrnv1c8qj73i::::res://art/3.png<>uid://ctqgfujm6iean::::res://art/2.png<>uid://cuk6vg5cv5cyn::::res://art/4.png<>uid://82ubv7hpt8qi::::res://art/5.png<>uid://yv7yxqlb7j2o::::res://art/6.png
+README.md::TextFile/TextFile::-1::1744492469::0::1::::<><><>0<>0<><>::
+::res://art/::1744520712
+1.png::CompressedTexture2D/CompressedTexture2D::8158021613201305017::1744490505::1744520460::1::::<><><>0<>0<>24777946d0fac13327dd5efde23180c7<>res://.godot/imported/1.png-fe1ed1a36ad9b051f527e9f0509447fb.ctex::
+2.png::CompressedTexture2D/CompressedTexture2D::6139833736457110285::1744490535::1744520460::1::::<><><>0<>0<>86561b020a57a3320cec38f8d76c5304<>res://.godot/imported/2.png-4b2422980aaed4755f0fc097310a5a63.ctex::
+3.png::CompressedTexture2D/CompressedTexture2D::527244520081064360::1744490567::1744520461::1::::<><><>0<>0<>ab95532338829d0326569a3cbcf22a1c<>res://.godot/imported/3.png-76f177c8bf471ec439fac95a386bc56b.ctex::
+4.png::CompressedTexture2D/CompressedTexture2D::6199182107739560261::1744490585::1744520461::1::::<><><>0<>0<>95839c1965b209545c3dc90f725abafe<>res://.godot/imported/4.png-6bb32739d1d818737b5b6d04602c08f2.ctex::
+5.png::CompressedTexture2D/CompressedTexture2D::2373187317826889620::1744490608::1744520461::1::::<><><>0<>0<>a5c8808fb8cf0f898c3d38eb049647d5<>res://.godot/imported/5.png-4eec0f21af71148980952cfe8e51245b.ctex::
+6.png::CompressedTexture2D/CompressedTexture2D::1729871216226595896::1744490626::1744520461::1::::<><><>0<>0<>307c141053ef9604608b07a681f93e04<>res://.godot/imported/6.png-441958961eb029f155474fe239c03e31.ctex::
+7.png::CompressedTexture2D/CompressedTexture2D::6476905999654879996::1744490641::1744520461::1::::<><><>0<>0<>d4ba83a21dcef5dfb86a47b5eb07d1ea<>res://.godot/imported/7.png-a4f6dcf12f64cf893144e55250375d55.ctex::
+8.png::CompressedTexture2D/CompressedTexture2D::3751476796435507227::1744490657::1744520461::1::::<><><>0<>0<>ec453d166f99f60c12d447c72528ef4e<>res://.godot/imported/8.png-13c6185f2342ecfdb50ab77ac99d5b9b.ctex::
+e_1-removebg-preview.png::CompressedTexture2D/CompressedTexture2D::2124997316936046682::1744493834::1744520461::1::::<><><>0<>0<>2a359f63c5e552360d136b4cf0364beb<>res://.godot/imported/e_1-removebg-preview.png-2694c98f0bb8933f9e232a75217625b3.ctex::
+e_2-removebg-preview.png::CompressedTexture2D/CompressedTexture2D::8781109641761693158::1744493851::1744520461::1::::<><><>0<>0<>74cbdcf2f4acdcbd271110e52be2457a<>res://.godot/imported/e_2-removebg-preview.png-03fb5062c2d019d69e264e62f494d075.ctex::
+e_3-removebg-preview.png::CompressedTexture2D/CompressedTexture2D::2274362694769129437::1744493861::1744520461::1::::<><><>0<>0<>85630e20032a8812843990052917b2fb<>res://.godot/imported/e_3-removebg-preview.png-bfa4f5e6a1b4e8219cd747be059b65bc.ctex::
+gameover.wav::AudioStreamWAV/AudioStreamWAV::4086009179397920360::1744492470::1744520461::1::::<><><>0<>0<>4674e60f7dbf2a24192c6e2c002155bd<>res://.godot/imported/gameover.wav-98c95c744b35280048c2bd093cf8a356.sample::
+House In a Forest Loop.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::8380707531673579902::1744492469::1744520460::1::::<><><>0<>0<>947f3008caf5c951e12b4b2251207286<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+Piso.svg::CompressedTexture2D/CompressedTexture2D::2817397370964759101::1744489358::1744520712::1::::<><><>0<>0<>65db228184bb8b87761ad6f9b318c130<>res://.godot/imported/Piso.svg-c8a371443f806a64421e391a8b49aec7.ctex::
+::res://fonts/::1744492510
+FONTLOG.txt::TextFile/TextFile::-1::1744492470::0::1::::<><><>0<>0<><>::
+LICENSE.txt::TextFile/TextFile::-1::1744492470::0::1::::<><><>0<>0<><>::
+Xolonium-Regular.ttf::FontFile/FontFile::5375469398433749905::1744492470::1744492510::1::::<><><>0<>0<>131eef7b9800b8eba2747562dbc733bb<>res://.godot/imported/Xolonium-Regular.ttf-bc2981e3069cff4c34dd7c8e2bb73fba.fontdata::
